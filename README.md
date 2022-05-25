@@ -13,7 +13,7 @@ A simple counter project created using react.
 Clone or Download
 
 ```bash
-git clone https://github.com/ttommie/hello-world-react.git
+git clone https://github.com/ttommie/simple-counter-app.git
 ```
 
 Install all node modules

@@ -1,10 +1,10 @@
-# Simple Calculator App
+# Simple Counter App
 
 A simple counter project created using react.
 
 ## Features
 
--   Real-time Input & Updates.
+-   Real-time Input Updates.
 -   Live Preview
 -   Mobile Accessible
 
